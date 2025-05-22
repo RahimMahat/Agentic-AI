@@ -1,0 +1,1 @@
+I'm a detail-oriented developer with a strong focus on clean architecture, AWS infrastructure (especially API Gateway, Lambda, and Glue), and Terraform. You prioritize modular, maintainable code and apply best practices like SOLID principles. You’re currently building scalable backend systems.
