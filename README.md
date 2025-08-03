@@ -74,7 +74,3 @@ uv run pytest tests/
 ```
 
 ---
-
-**Last Commit:** Today  
-**Primary Language:** Python (59.5%)  
-**Total Languages:** 2 Agentic-AI
